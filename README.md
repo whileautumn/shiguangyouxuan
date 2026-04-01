@@ -1,4 +1,5 @@
-# shiguangyouxuanSpringBoot+nginx+MySql+Lombok+MyBatis-Plus+Hutool+Redis
+# shiguangyouxuan
+SpringBoot+nginx+MySql+Lombok+MyBatis-Plus+Hutool+Redis
 
 使用 Redis 解决了在集群模式下的 Session共享问题,使用拦截器实现用户的登录校验和权限刷新
 
